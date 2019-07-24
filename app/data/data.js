@@ -19,4 +19,5 @@ var friendsData = [{
 
 ];
 
+// requier by ../../routing/apiRoutes.js
 module.exports = friendsData;

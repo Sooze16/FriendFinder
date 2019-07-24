@@ -38,20 +38,20 @@ module.exports = function(app) {
         var surveyScores = req.body.scores
         var sum = 0;
         var result = 0
+
         for (var i = 0; i < friendData.length; i++) {
             sum = 0; // next person to calculate total   //difference
+
             for (var j = 0; j < surveyScores.length; j++) {
                 result = Math.abs(friendData[i].scores[j] - surveyScores[j])
                 sum += result
-
-
             }
-
             newFriendArray.push({
                 name: friendData[i].name,
                 photo: friendData[i].photo,
                 totalDifference: sum
             })
+
         } // Note the code here. Our "server" will respond to requests and let users know if they have a table or not.
         // It will do this by sending out the value "true" have a table
         // req.body is available since we're using the body parsing middleware

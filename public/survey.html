@@ -298,8 +298,8 @@
                         // Here display the MODAL
                         if (data) {
 
-                            var imageMatch = "<img src=" + data[1] + " class='ml-2' width='250'>";
-                            var nameMatch = '<h2 class="name text-center">' + data[0] + '</h2>';
+                            var imageMatch = "<img src=" + data.photo + " class='ml-2' width='250'>";
+                            var nameMatch = '<h2 class="name text-center">' + data.name + '</h2>';
 
                             $("#modal-body").empty();
                             $("#modal-body").append(imageMatch, nameMatch);
