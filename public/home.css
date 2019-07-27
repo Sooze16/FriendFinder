@@ -1,6 +1,6 @@
             .jumbotron {
                 /*background-color: teal;*/
-                background-image: url("../public/images/ggimg2.png");
+                background-image: url("./images/ggimg2.png");
                 background-repeat: no-repeat;
                 /* background: fixed; */
                 background-position: 100% 70%;
@@ -8,12 +8,10 @@
             }
             
             h1 {
-                /*font-family: 'Goblin One', cursive;*/
                 font-family: 'Macondo Swash Caps', cursive;
-                font-size: 800%;
+                font-size: 700%;
                 text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
                 text-align: center;
-                /*font-family: 'Lora', serif;*/
             }
             
             h2.display-4 {
