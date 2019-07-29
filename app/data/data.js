@@ -5,39 +5,39 @@ var friendsData = [{
     },
 
     {
-        name: "Jim Stare",
-        photo: "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        scores: [1, 4, 3, 2, 1, 5, 5, 1, 1, 1],
+        name: "Dorothy",
+        photo: "https://img.buzzfeed.com/buzzfeed-static/static/2017-02/14/10/campaign_images/buzzfeed-prod-fastlane-03/21-insults-on-the-golden-girls-that-were-straight-2-16101-1487086084-4_dblbig.jpg",
+        scores: [2, 4, 3, 5, 1, 2, 5, 2, 2, 2],
     },
 
     {
-        name: "Justin Star",
-        photo: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        scores: [1, 4, 3, 2, 1, 5, 5, 1, 1, 1],
+        name: "Rose",
+        photo: "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-the-golden-girls-betty-white.jpg",
+        scores: [3, 3, 3, 3, 3, 5, 5, 1, 1, 1],
     },
 
     {
-        name: "Tami Bloom",
-        photo: "https://images.pexels.com/photos/1319911/pexels-photo-1319911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        scores: [1, 4, 3, 2, 1, 5, 5, 1, 1, 1],
+        name: "Blanch",
+        photo: "https://i.pinimg.com/originals/3e/0a/61/3e0a61dd3f98c55484906d3609ea08a4.jpg",
+        scores: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
     },
 
     {
-        name: "Margaret Pine",
+        name: "Stanley",
         photo: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        scores: [1, 4, 3, 2, 1, 5, 5, 1, 1, 1],
+        scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
     },
 
     {
-        name: "Chris Witt",
+        name: "Coco",
         photo: "https://images.pexels.com/photos/157741/woman-confident-happy-confident-woman-157741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        scores: [1, 4, 3, 2, 1, 5, 5, 1, 1, 1],
+        scores: [1, 2, 3, 4, 5, 5, 4, 3, 2, 1],
     },
 
     {
-        name: "John Doe",
+        name: "Miles",
         photo: "https://images.pexels.com/photos/936593/pexels-photo-936593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        scores: [1, 4, 3, 2, 1, 5, 5, 1, 1, 1],
+        scores: [1, 5, 2, 2, 1, 5, 2, 1, 1, 5],
     },
 
 

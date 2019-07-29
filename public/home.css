@@ -3,20 +3,21 @@
                 background-image: url("./images/ggimg2.png");
                 background-repeat: no-repeat;
                 /* background: fixed; */
-                background-position: 100% 70%;
+                background-position: center;
                 color: white;
             }
             
             h1 {
                 font-family: 'Macondo Swash Caps', cursive;
-                font-size: 700%;
+                font-size: 1400%;
                 text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
                 text-align: center;
             }
             
-            h2.display-4 {
+            h2 {
                 font-family: 'Lora', serif;
-                text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+                text-shadow: 2px 2px 3px rgba(199, 194, 194, 0.6);
+                color: red;
                 text-align: center;
             }
             
