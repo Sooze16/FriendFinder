@@ -24,7 +24,7 @@ var friendsData = [{
 
     {
         name: "Stanley",
-        photo: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        photo: "https://theveryspecialblog.files.wordpress.com/2017/05/a1fcd3c272eeae45cab5cb27daac9255.jpg",
         scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
     },
 
@@ -36,7 +36,7 @@ var friendsData = [{
 
     {
         name: "Miles",
-        photo: "https://images.pexels.com/photos/936593/pexels-photo-936593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        photo: "https://vignette.wikia.nocookie.net/goldengirls/images/b/b5/Arnie.png/revision/latest?cb=20130608130758",
         scores: [1, 5, 2, 2, 1, 5, 2, 1, 1, 5],
     },
 
